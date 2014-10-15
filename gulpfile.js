@@ -1,3 +1,5 @@
+// Test comment
+
 var gulp = require('gulp');
 var spritesmith = require('gulp.spritesmith');
 
